@@ -1,10 +1,3 @@
-Got it ✅ — You want **the entire README**, fully written from top to bottom, using **pure GitHub Markdown** (no truncation).
-
-Here is the **complete version** (you can copy and paste this entire block into your GitHub `README.md` file):
-
----
-
-````markdown
 # 🧠 ShopAI - End-to-End AI Data Pipeline
 
 A **full-featured PostgreSQL + Python project** simulating a real-world AI data workflow.  
@@ -264,7 +257,3 @@ It’s fully formatted for GitHub with headings, code blocks, and tables that re
 
 ```
 
----
-
-That’s the **entire README.md** in proper GitHub Markdown — you can copy it directly, and it will display perfectly on your repo page (with all headings, tables, and formatting intact).
-```
