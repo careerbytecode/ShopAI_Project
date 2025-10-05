@@ -257,7 +257,3 @@ It’s fully formatted for GitHub with headings, code blocks, and tables that re
 
 ```
 
----
-
-That’s the **entire README.md** in proper GitHub Markdown — you can copy it directly, and it will display perfectly on your repo page (with all headings, tables, and formatting intact).
-```
