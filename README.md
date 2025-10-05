@@ -1,10 +1,3 @@
-Got it ✅ — You want **the entire README**, fully written from top to bottom, using **pure GitHub Markdown** (no truncation).
-
-Here is the **complete version** (you can copy and paste this entire block into your GitHub `README.md` file):
-
----
-
-````markdown
 # 🧠 ShopAI - End-to-End AI Data Pipeline
 
 A **full-featured PostgreSQL + Python project** simulating a real-world AI data workflow.  
